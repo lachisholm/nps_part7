@@ -1,3 +1,6 @@
+
+import { getParkVisitorCenterDetails } from "./parkService.mjs";
+
 // get a single URL parameter
 export function getParam(param) {
     const search = location.search;
