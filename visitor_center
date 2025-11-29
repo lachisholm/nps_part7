@@ -11,6 +11,6 @@
     <main></main>
     <footer></footer>
 
-    <script type="module" src="visitor-center.js"></script>
+    <script type="module" src="visitorCenterPage.js"></script>
 </body>
 </html>
