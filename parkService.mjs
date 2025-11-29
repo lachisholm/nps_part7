@@ -1,5 +1,3 @@
-import { getParkVisitorCenterDetails } from "./parkService.mjs";
-
 
 
 // generic JSON fetch helper
