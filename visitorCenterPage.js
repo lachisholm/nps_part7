@@ -7,7 +7,7 @@ export function getParam(param) {
 
 // main initializer function
 async function init() {
-    
+    const id = getPram("id");
     // fill this in later
 }
 
