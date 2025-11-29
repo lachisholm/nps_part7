@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html land="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device_width, initial-scale=1.0">
+    <title>Visitor Center</title>
+</head>
+<body>
+    <header></header>
+    
+    <main></main>
+    <footer></footer>
+
+    <script type="module" src="visitor-center.js"></script>
+</body>
+</html>
