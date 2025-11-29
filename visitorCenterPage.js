@@ -7,8 +7,11 @@ export function getParam(param) {
 
 // main initializer function
 async function init() {
-    const id = getPram("id");
-    // fill this in later
+    const id = getParam("id");
+    const centerDetails = await getParkVisitorCenterDetails(id);
+
+    document.getElementById("vc-name").textContent = centerDetails.name;
 }
+
 
 init();
